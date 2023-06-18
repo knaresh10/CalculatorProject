@@ -11,8 +11,7 @@ To enhance user experience and facilitate efficient calculations, the Calculator
 
 The Calculator will be designed to handle both decimal and whole numbers, ensuring that users can perform calculations accurately and precisely, regardless of the number type involved. This flexibility will enable users to tackle a wide range of mathematical tasks using a single application.
 
-## preview of the project
-![Alt text](image.jpg?raw=true "Preview Image")
+
 ## technologies used
 - HTML
 - CSS
